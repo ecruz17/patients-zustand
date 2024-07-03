@@ -5,3 +5,5 @@
 1. Clone repo
 2. Install dependencies w/ ```yarn install``` || ```npm install```
 3. Run with ```yarn dev``` || ```npm run dev```
+
+## Check the depployment: https://patients-zustand.vercel.app/
