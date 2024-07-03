@@ -6,4 +6,4 @@
 2. Install dependencies w/ ```yarn install``` || ```npm install```
 3. Run with ```yarn dev``` || ```npm run dev```
 
-## Check the depployment: https://patients-zustand.vercel.app/
+## Check the deployment: https://patients-zustand.vercel.app/
